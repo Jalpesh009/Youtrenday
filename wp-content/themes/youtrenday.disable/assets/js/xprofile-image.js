@@ -1,0 +1,1 @@
+jQuery('#site-footer .col-lg-2').removeClass("col-lg-2");
